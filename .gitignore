@@ -1,0 +1,30 @@
+dist/
+build/
+out/
+*.log
+
+# System files
+.DS_Store
+Thumbs.db
+ehthumbs.db
+Icon?
+Desktop.ini
+
+# IDE / Editor folders
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Windows
+*.lnk
+
+# Environment files
+.env
+.env.local
+.env.*.local
+
+*.bak
+*.tmp
+*.temp
+*.orig
