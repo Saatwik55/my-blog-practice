@@ -2,3 +2,8 @@
     background-color: #0000;
     color: #c0c0c0;
 }
+#subscribe-button{
+    background-color: red;
+    padding: 2px 2px 3px 4px;
+    margin: auto;
+}
